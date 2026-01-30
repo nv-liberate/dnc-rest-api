@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+greenlet>=3.0
+SQLAlchemy>=2.0
+asyncpg
